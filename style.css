@@ -10,14 +10,15 @@ body {
   
 }
 
-a {
+a:link {
     color: red;
+}
+
+a:visited {
+    color: orange;
 }
 
 a:hover {
     color: hotpink;
 }
 
-a:visited {
-    color: orange;
-}
