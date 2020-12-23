@@ -2,14 +2,14 @@ body, html {
     height: 100%;
   }
 
-a {
-      color: red;
+a:link {
+      color: #ff0000;
 }
 a:visited {
-      color: orange;
+      color: #FFA500;
 }
 a:hover, a:active, a:focus {
-      color:#FF69B4;
+      color: #FF69B4;
 }
 
 body {
