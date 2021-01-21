@@ -1,1 +1,31 @@
+body {
+  color: white;
+}
 
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+body, html {
+    height: 100%;
+  }
+
+a:link {
+      color: #ff0000;
+}
+a:visited {
+      color: #FFA500;
+}
+a:hover, a:active, a:focus {
+      color: #FF69B4;
+}
+
+body {
+    background-color: #6b7c49;
+    height: 100%; 
+    background-position: center;
+  background-repeat: repeat;
+}
