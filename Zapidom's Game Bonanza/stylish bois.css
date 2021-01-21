@@ -1,5 +1,10 @@
 body {
   color: white;
+  background-color: #6b7c49;
+  height: 100%;
+  background-position: center;
+  background-repeat: repeat;
+  height: 100%;
 }
 
 h1 {
@@ -9,13 +14,8 @@ h1 {
 p {
   color: white;
 }
-body, html {
-    height: 100%;
-  }
-
-body {
-    background-color: #6b7c49;
-    height: 100%;
-    background-position: center;
-  background-repeat: repeat;
+html {
+  height: 100%;
 }
+
+
