@@ -1,5 +1,10 @@
 body {
   color: white;
+  background-image: url("https://cdn.discordapp.com/attachments/695008691241484329/789952194731966484/unknown.png");
+  height: 100%; 
+  background-position: center;
+  background-repeat: repeat;
+  height: 100%;
 }
 
 h1 {
@@ -9,9 +14,9 @@ h1 {
 p {
   color: white;
 }
-body, html {
+html {
     height: 100%;
-  }
+}
 
 a:link {
       color: #ff0000;
@@ -23,11 +28,5 @@ a:hover, a:active, a:focus {
       color: #FF69B4;
 }
 
-body {
-    background-image: url("https://cdn.discordapp.com/attachments/695008691241484329/789952194731966484/unknown.png");
-    height: 100%; 
-    background-position: center;
-  background-repeat: repeat;
-}
 
 
